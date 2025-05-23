@@ -1,4 +1,4 @@
-[⚠️ Suspicious Content] // Import von Libraries
+// Import von Libraries
 import java.awt.*;
 import java.util.Map;
 import javax.swing.*;
